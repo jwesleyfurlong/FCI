@@ -19,4 +19,6 @@ Philadelphia tracts 2009_2017 comparisons.csv includes the difference between th
 
 phl_2017.csv includes additional variables beyond the ACS including: incarceration rate, same house year ago, avg. job growth, and other calculated fields.  
 
+FCIVariables.docx includes a list of variables in the .csv files. 
+
 Additional documentation includes variables lists and ACS documentation. 
